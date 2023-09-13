@@ -3,13 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinwhell&label=Profile%20views&color=000000&style=plastic" alt="pinwhell" /> </p>
 
-- 🌱 I’m currently learning **Cross-Plataform Integratios**
-
-- 💬 Ask me about **C++**
-
-- ⚡ Fun fact **I Just love Reverse Engineering**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
