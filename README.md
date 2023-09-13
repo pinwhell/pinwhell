@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pinwhell</h1>
-<h3 align="center">CPP Boy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinwhell&label=Profile%20views&color=000000&style=plastic" alt="pinwhell" /> </p>
 
